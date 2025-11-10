@@ -18,15 +18,15 @@ Enhance accuracy, efficiency, and overall customer satisfaction.
 
 Key Features
 
-Automated Dealer Assignment — Auto-selects nearest dealer based on location.
+Automated Dealer Assignment > Auto-selects nearest dealer based on location.
 
-Stock Validation — Prevents orders for unavailable vehicles.
+Stock Validation > Prevents orders for unavailable vehicles.
 
-Email Notifications — Sends reminders before scheduled test drives.
+Email Notifications > Sends reminders before scheduled test drives.
 
-Scheduled Automation — Apex-style jobs or Skill Wallet workflows for order and stock updates.
+Scheduled Automation > Apex-style jobs or Skill Wallet workflows for order and stock updates.
 
-Reports & Dashboards — Monitor dealer performance, stock levels, and order summaries.
+Reports & Dashboards > Monitor dealer performance, stock levels, and order summaries.
 
 Technologies Used
 
